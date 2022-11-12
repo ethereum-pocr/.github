@@ -1,3 +1,3 @@
-# Ethereum Proof of Carbon Reduction
+# Proof of Carbon Reduction public blockchain network
 
 Under construction 🚧 
