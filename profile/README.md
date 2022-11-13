@@ -1,8 +1,13 @@
 # Proof of Carbon Reduction public blockchain network
 
-"Proof of Carbon Reduction" is the name of an augmented proof of authority consensus inherited from Ethereum Clique that incentivizes the node operators to progressively improve the carbon footprint of their node. 
+"Proof of Carbon Reduction" is the name of an augmented proof of authority consensus inherited from Ethereum Clique that incentivizes the node operators to progressively improve the carbon footprint of their node.
 
-**This site contains the necessary material to undestand and participate to this proposition for a new blockchain network.**
+_Expected benefits:_
+* The network total carbon footprint will be known precisely and will progressively reduce with time
+* Actors will be financially incentivized to better understand Green IT parameters and make investments for developping that sector
+* Actors are publicly known so crypto tokens generated will be fully traceable from source to recipient enabling better compliance with AML/CTF regulations
+
+**This site contains the necessary material to understand and participate to this proposition for a new blockchain network.**
 
 This new public blockchain network is intended for any end users, consumers of blockchain infrastructure, using the CRC (Carbon Reduction Coin, ₡) to pay for transactions.
 
