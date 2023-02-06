@@ -19,6 +19,8 @@ The main network (or production network) is named `PoCRNet` and is soon to be av
 The test network, `Kerleano`, is available to anyone to join as client and propose sealers --> [**Get Started**](https://github.com/ethereum-pocr/kerleano/tree/main/docs)    
 
 Nodes in charge of adding transactions into blocks are "sealers" of the proof of authority consensus. They are companies (large or small) that are endorsed by the initial sealers. They receive a remuneration in CRC according to the quality of their IT system involved in running their node.    
-To participate to the network as sealer, submit your request to the community [here](https://github.com/ethereum-pocr/pocrnet/issues/new/choose)
+To participate to the network as sealer, submit your request to the community [here](https://github.com/ethereum-pocr/pocrnet/issues/new/choose).
+
+To visualize the network you have the PoCR Network governance DApp at https://ethereum-pocr.github.io/. It requires a metamask compatible wallet.
 
 The decisions in the community are decided by democratic vote among the nodes operators where one node has one vote. Review the governance part of the whitepaper for more information.
