@@ -24,3 +24,7 @@ To participate to the network as sealer, submit your request to the community [h
 To visualize the network you have the PoCR Network governance DApp at https://ethereum-pocr.github.io/. It requires a metamask compatible wallet.
 
 The decision for changes are taken by the community by democratic vote (DAO type model) among the nodes operators where one node has one vote. Review the governance part of the whitepaper for more information.
+
+## Overview
+
+![marketing](./PoCR-Marketing.png)
