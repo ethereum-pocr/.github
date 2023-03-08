@@ -27,4 +27,4 @@ The decision for changes are taken by the community by democratic vote (DAO type
 
 ## Overview
 
-![marketing](./PoCR-Marketing.png)
+![marketing](https://github.com/ethereum-pocr/.github/blob/main/profile/PoCR-Marketing.png)
